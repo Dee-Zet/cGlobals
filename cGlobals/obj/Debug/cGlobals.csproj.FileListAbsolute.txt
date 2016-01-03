@@ -1,0 +1,9 @@
+d:\Desktop\cSpan\cSpan\bin\Debug\cGlobals.exe.config
+d:\Desktop\cSpan\cSpan\bin\Debug\cGlobals.exe
+d:\Desktop\cSpan\cSpan\bin\Debug\cGlobals.pdb
+d:\Desktop\cSpan\cSpan\obj\Debug\cGlobals.csprojResolveAssemblyReference.cache
+d:\Desktop\cSpan\cSpan\obj\Debug\cGlobals.exe
+d:\Desktop\cSpan\cSpan\obj\Debug\cGlobals.pdb
+d:\Desktop\cGlobals\cGlobals\bin\Debug\cGlobals.exe.config
+d:\Desktop\cGlobals\cGlobals\obj\Debug\cGlobals.exe
+d:\Desktop\cGlobals\cGlobals\obj\Debug\cGlobals.pdb

@@ -1,0 +1,39 @@
+d:\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+d:\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+d:\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+d:\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\cSpan.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+d:\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Дмитрий\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Дмитрий\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Дмитрий\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Дмитрий\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Дмитрий\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Дмитрий\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\cSpan.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Учеба\Метрология\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Дмитрий\Desktop\Учеба\Метрология\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Дмитрий\Desktop\Учеба\Метрология\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\Учеба\cSpan\cSpan\bin\Debug\ConsoleApplication1.exe.config
+E:\Учеба\cSpan\cSpan\obj\Debug\ConsoleApplication1.exe
+E:\Учеба\cSpan\cSpan\obj\Debug\ConsoleApplication1.pdb
+E:\Учеба\cSpan\cSpan\bin\Debug\ConsoleApplication1.exe
+E:\Учеба\cSpan\cSpan\bin\Debug\ConsoleApplication1.pdb
+E:\Учеба\cSpan\cSpan\obj\Debug\cSpan.csprojResolveAssemblyReference.cache
+E:\Учеба\Метрология\cSpan\cSpan\bin\Debug\ConsoleApplication1.exe.config
+E:\Учеба\Метрология\cSpan\cSpan\obj\Debug\ConsoleApplication1.exe
+E:\Учеба\Метрология\cSpan\cSpan\obj\Debug\ConsoleApplication1.pdb
+E:\Учеба\Метрология\cSpan\cSpan\bin\Debug\ConsoleApplication1.exe
+E:\Учеба\Метрология\cSpan\cSpan\bin\Debug\ConsoleApplication1.pdb
+E:\Учеба\Метрология\cSpan\cSpan\obj\Debug\cSpan.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\cSpan\cSpan\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Дмитрий\Desktop\cSpan\cSpan\obj\Debug\ConsoleApplication1.exe
+C:\Users\Дмитрий\Desktop\cSpan\cSpan\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Дмитрий\Desktop\cSpan\cSpan\bin\Debug\ConsoleApplication1.exe
+C:\Users\Дмитрий\Desktop\cSpan\cSpan\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Дмитрий\Desktop\cSpan\cSpan\obj\Debug\cSpan.csprojResolveAssemblyReference.cache
+d:\Desktop\cSpan\cSpan\obj\Debug\cSpan.csprojResolveAssemblyReference.cache
+d:\Desktop\cSpan\cSpan\bin\Debug\cSpan.exe.config
+d:\Desktop\cSpan\cSpan\bin\Debug\cSpan.exe
+d:\Desktop\cSpan\cSpan\bin\Debug\cSpan.pdb
+d:\Desktop\cSpan\cSpan\obj\Debug\cSpan.exe
+d:\Desktop\cSpan\cSpan\obj\Debug\cSpan.pdb
